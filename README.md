@@ -152,19 +152,7 @@ Java file containing constructor to initialize database objects for orders curre
 <br>
 To confirm delivery ,the customer must enter his password when the order is delivered to him by the staff.This deletes the specified order object from DeliverOrder and proves that the order has been successfully delivered to the customer.
 <br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/16.Confirm%20order%20delivery%20from%20customer.png" width=250 height=500 style="border-radius:5%">
-<br>
-31.ABOUT
-<br>
-Activity displaying the details of the developer and link to his social media handles.
-<br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/17.About%20Section.png" width=250 height=500 style="border-radius:5%">
-<br>
 
 
-<h3 align="center">Loved this project?? If yes, don't forget to give it a ⭐ and share it with your friends 😃</h3>
-<h3 align="center">Check out my other works at https://github.com/vijayjoshi16</h3>
-
-<h3 align="center"><i><center>THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENTS IN THIS PROJECT ARE ALWAYS WELCOME</center></i></h3>
 
 
